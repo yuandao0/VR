@@ -1,0 +1,15 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"/Users/pingchungtsai/Documents/GitHub/BAthesis/VR/Content/Blueprints/avatar01.uasset",
+				"/Users/pingchungtsai/Documents/GitHub/BAthesis/VR/Content/Level/NewMap1.umap",
+				"/Users/pingchungtsai/Documents/GitHub/BAthesis/VR/Content/__ExternalActors__/Level/NewMap1/6/P1/R02AY0A3B27TBT6NXB807K.uasset",
+				"/Users/pingchungtsai/Documents/GitHub/BAthesis/VR/Content/__ExternalActors__/Level/NewMap1/4/UR/WYORTFDZREIEMU8NXM4GPW.uasset"
+			]
+		}
+	]
+}
