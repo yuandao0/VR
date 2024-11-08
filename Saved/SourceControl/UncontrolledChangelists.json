@@ -5,6 +5,8 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"/Users/pingchungtsai/Documents/GitHub/BAthesis/VR/Content/Blueprints/avatar01.uasset",
+				"/Users/pingchungtsai/Documents/GitHub/VR/Content/Blueprints/AvatarController.uasset",
 				"D:/Shared/UE5/Assignment01/VR 5.4 - 3/Content/Blueprints/avatar01.uasset",
 				"D:/Shared/UE5/Assignment01/VR 5.4 - 3/Content/Blueprints/Avatar.uasset",
 				"D:/Shared/UE5/Assignment01/VR 5.4 - 3/Content/Blueprints/Controller.uasset",
@@ -81,7 +83,6 @@
 				"D:/Shared/UE5/Assignment01/VR 5.4 - 3/Content/Blueprints/cubetest.uasset",
 				"D:/Shared/UE5/Assignment01/VR 5.4 - 3/Content/Blueprints/snowman.uasset",
 				"D:/Shared/UE5/Assignment01/VR 5.4 - 3/Content/__ExternalActors__/Level/NewMap1/5/MW/H80LN6JG5N38J98G5R0UFN.uasset",
-				"/Users/pingchungtsai/Documents/GitHub/BAthesis/VR/Content/Blueprints/avatar01.uasset",
 				"/Users/pingchungtsai/Documents/GitHub/BAthesis/VR/Content/Level/NewMap1.umap",
 				"/Users/pingchungtsai/Documents/GitHub/BAthesis/VR/Content/__ExternalActors__/Level/NewMap1/6/P1/R02AY0A3B27TBT6NXB807K.uasset",
 				"/Users/pingchungtsai/Documents/GitHub/BAthesis/VR/Content/__ExternalActors__/Level/NewMap1/4/UR/WYORTFDZREIEMU8NXM4GPW.uasset"
