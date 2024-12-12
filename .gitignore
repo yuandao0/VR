@@ -33,6 +33,7 @@ Saved/
 *.vscode/
 *.vsconfig
 *.sln.DotSettings.user
+*.ignore
 
 # Ignore Build files and binary executables
 Build/Windows/
