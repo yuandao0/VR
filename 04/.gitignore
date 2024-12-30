@@ -32,6 +32,7 @@ Saved/
 *.log
 *.vscode/
 *.vsconfig
+*.code-workspace
 *.sln.DotSettings.user
 *.ignore
 
