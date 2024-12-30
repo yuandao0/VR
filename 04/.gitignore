@@ -1,0 +1,49 @@
+# Ignore Windows, MacOS, and Linux generated files
+*.DS_Store
+*.AppleDouble
+._*
+Thumbs.db
+desktop.ini
+*.swp
+*.swo
+*.bak
+*.backup
+*.tmp
+*.temp
+
+# Ignore Unreal Engine specific files and directories
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+*.VC.db
+*.VC.opendb
+
+# Ignore user-specific and local settings files
+*.sln
+*.suo
+*.user
+*.userossc
+*.usertasks
+*.opensdf
+*.sdf
+*.ipch
+*.pch
+*.log
+*.vscode/
+*.vsconfig
+*.sln.DotSettings.user
+*.ignore
+
+# Ignore Build files and binary executables
+Build/Windows/
+Build/Mac/
+Build/Linux/
+
+# Ignore AutoSDK
+Engine/Extras/ThirdPartyNotUE/AutoSDK/
+
+# Ignore Unreal Engine specific temporary and cache files
+Saved/
+DerivedDataCache/
+.vscode/
