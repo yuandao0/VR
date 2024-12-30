@@ -6,12 +6,133 @@
 		},
 		{
 			"name": "UE5",
-			"path": "C:\\Program Files\\Epic Games\\UE_5.3"
+			"path": "D:\\SoftWare\\UE_5.3"
 		}
 	],
 	"settings": {
 		"typescript.tsc.autoDetect": "off",
-		"npm.autoDetect": "off"
+		"npm.autoDetect": "off",
+		"files.associations": {
+			"*.rh": "cpp",
+			"*.ipp": "cpp",
+			"xutility": "cpp",
+			"algorithm": "cpp",
+			"ratio": "cpp",
+			"chrono": "cpp",
+			"limits": "cpp",
+			"random": "cpp",
+			"utility": "cpp",
+			"valarray": "cpp",
+			"any": "cpp",
+			"array": "cpp",
+			"atomic": "cpp",
+			"bit": "cpp",
+			"bitset": "cpp",
+			"cctype": "cpp",
+			"cfenv": "cpp",
+			"charconv": "cpp",
+			"cinttypes": "cpp",
+			"clocale": "cpp",
+			"cmath": "cpp",
+			"codecvt": "cpp",
+			"compare": "cpp",
+			"complex": "cpp",
+			"concepts": "cpp",
+			"condition_variable": "cpp",
+			"coroutine": "cpp",
+			"csignal": "cpp",
+			"cstdarg": "cpp",
+			"cstddef": "cpp",
+			"cstdint": "cpp",
+			"cstdio": "cpp",
+			"cstdlib": "cpp",
+			"cstring": "cpp",
+			"ctime": "cpp",
+			"cwchar": "cpp",
+			"cwctype": "cpp",
+			"deque": "cpp",
+			"exception": "cpp",
+			"execution": "cpp",
+			"filesystem": "cpp",
+			"format": "cpp",
+			"forward_list": "cpp",
+			"fstream": "cpp",
+			"functional": "cpp",
+			"future": "cpp",
+			"hash_map": "cpp",
+			"initializer_list": "cpp",
+			"iomanip": "cpp",
+			"ios": "cpp",
+			"iosfwd": "cpp",
+			"iostream": "cpp",
+			"istream": "cpp",
+			"iterator": "cpp",
+			"list": "cpp",
+			"locale": "cpp",
+			"map": "cpp",
+			"memory": "cpp",
+			"memory_resource": "cpp",
+			"mutex": "cpp",
+			"new": "cpp",
+			"numeric": "cpp",
+			"optional": "cpp",
+			"ostream": "cpp",
+			"queue": "cpp",
+			"ranges": "cpp",
+			"regex": "cpp",
+			"scoped_allocator": "cpp",
+			"set": "cpp",
+			"shared_mutex": "cpp",
+			"source_location": "cpp",
+			"span": "cpp",
+			"sstream": "cpp",
+			"stack": "cpp",
+			"stdexcept": "cpp",
+			"stop_token": "cpp",
+			"streambuf": "cpp",
+			"string": "cpp",
+			"strstream": "cpp",
+			"system_error": "cpp",
+			"thread": "cpp",
+			"tuple": "cpp",
+			"type_traits": "cpp",
+			"typeindex": "cpp",
+			"typeinfo": "cpp",
+			"unordered_map": "cpp",
+			"unordered_set": "cpp",
+			"variant": "cpp",
+			"vector": "cpp",
+			"xfacet": "cpp",
+			"xhash": "cpp",
+			"xiosbase": "cpp",
+			"xlocale": "cpp",
+			"xlocbuf": "cpp",
+			"xlocinfo": "cpp",
+			"xlocmes": "cpp",
+			"xlocmon": "cpp",
+			"xlocnum": "cpp",
+			"xloctime": "cpp",
+			"xmemory": "cpp",
+			"xstddef": "cpp",
+			"xstring": "cpp",
+			"xtr1common": "cpp",
+			"xtree": "cpp",
+			"__bit_reference": "cpp",
+			"__bits": "cpp",
+			"__config": "cpp",
+			"__debug": "cpp",
+			"__errc": "cpp",
+			"__hash_table": "cpp",
+			"__locale": "cpp",
+			"__mutex_base": "cpp",
+			"__node_handle": "cpp",
+			"__split_buffer": "cpp",
+			"__threading_support": "cpp",
+			"__tree": "cpp",
+			"__tuple": "cpp",
+			"__verbose_abort": "cpp",
+			"string_view": "cpp"
+		}
 	},
 	"extensions": {
 		"recommendations": [
@@ -30,13 +151,13 @@
 					"Blocks",
 					"Win64",
 					"Debug",
-					"D:\\Documents\\GitHub\\VR\\04\\Blocks.uproject",
+					"D:\\Shared\\UE5\\Assignment01\\VR1108\\04\\Blocks.uproject",
 					"-waitmutex"
 				],
 				"problemMatcher": "$msCompile",
 				"type": "shell",
 				"options": {
-					"cwd": "C:\\Program Files\\Epic Games\\UE_5.3"
+					"cwd": "D:\\SoftWare\\UE_5.3"
 				}
 			},
 			{
@@ -47,7 +168,7 @@
 					"Blocks",
 					"Win64",
 					"Debug",
-					"D:\\Documents\\GitHub\\VR\\04\\Blocks.uproject",
+					"D:\\Shared\\UE5\\Assignment01\\VR1108\\04\\Blocks.uproject",
 					"-waitmutex"
 				],
 				"problemMatcher": "$msCompile",
@@ -56,7 +177,7 @@
 				],
 				"type": "shell",
 				"options": {
-					"cwd": "C:\\Program Files\\Epic Games\\UE_5.3"
+					"cwd": "D:\\SoftWare\\UE_5.3"
 				}
 			},
 			{
@@ -67,13 +188,13 @@
 					"Blocks",
 					"Win64",
 					"Debug",
-					"D:\\Documents\\GitHub\\VR\\04\\Blocks.uproject",
+					"D:\\Shared\\UE5\\Assignment01\\VR1108\\04\\Blocks.uproject",
 					"-waitmutex"
 				],
 				"problemMatcher": "$msCompile",
 				"type": "shell",
 				"options": {
-					"cwd": "C:\\Program Files\\Epic Games\\UE_5.3"
+					"cwd": "D:\\SoftWare\\UE_5.3"
 				}
 			},
 			{
@@ -84,13 +205,13 @@
 					"Blocks",
 					"Win64",
 					"DebugGame",
-					"D:\\Documents\\GitHub\\VR\\04\\Blocks.uproject",
+					"D:\\Shared\\UE5\\Assignment01\\VR1108\\04\\Blocks.uproject",
 					"-waitmutex"
 				],
 				"problemMatcher": "$msCompile",
 				"type": "shell",
 				"options": {
-					"cwd": "C:\\Program Files\\Epic Games\\UE_5.3"
+					"cwd": "D:\\SoftWare\\UE_5.3"
 				}
 			},
 			{
@@ -101,7 +222,7 @@
 					"Blocks",
 					"Win64",
 					"DebugGame",
-					"D:\\Documents\\GitHub\\VR\\04\\Blocks.uproject",
+					"D:\\Shared\\UE5\\Assignment01\\VR1108\\04\\Blocks.uproject",
 					"-waitmutex"
 				],
 				"problemMatcher": "$msCompile",
@@ -110,7 +231,7 @@
 				],
 				"type": "shell",
 				"options": {
-					"cwd": "C:\\Program Files\\Epic Games\\UE_5.3"
+					"cwd": "D:\\SoftWare\\UE_5.3"
 				}
 			},
 			{
@@ -121,13 +242,13 @@
 					"Blocks",
 					"Win64",
 					"DebugGame",
-					"D:\\Documents\\GitHub\\VR\\04\\Blocks.uproject",
+					"D:\\Shared\\UE5\\Assignment01\\VR1108\\04\\Blocks.uproject",
 					"-waitmutex"
 				],
 				"problemMatcher": "$msCompile",
 				"type": "shell",
 				"options": {
-					"cwd": "C:\\Program Files\\Epic Games\\UE_5.3"
+					"cwd": "D:\\SoftWare\\UE_5.3"
 				}
 			},
 			{
@@ -138,13 +259,13 @@
 					"Blocks",
 					"Win64",
 					"Development",
-					"D:\\Documents\\GitHub\\VR\\04\\Blocks.uproject",
+					"D:\\Shared\\UE5\\Assignment01\\VR1108\\04\\Blocks.uproject",
 					"-waitmutex"
 				],
 				"problemMatcher": "$msCompile",
 				"type": "shell",
 				"options": {
-					"cwd": "C:\\Program Files\\Epic Games\\UE_5.3"
+					"cwd": "D:\\SoftWare\\UE_5.3"
 				}
 			},
 			{
@@ -155,7 +276,7 @@
 					"Blocks",
 					"Win64",
 					"Development",
-					"D:\\Documents\\GitHub\\VR\\04\\Blocks.uproject",
+					"D:\\Shared\\UE5\\Assignment01\\VR1108\\04\\Blocks.uproject",
 					"-waitmutex"
 				],
 				"problemMatcher": "$msCompile",
@@ -164,7 +285,7 @@
 				],
 				"type": "shell",
 				"options": {
-					"cwd": "C:\\Program Files\\Epic Games\\UE_5.3"
+					"cwd": "D:\\SoftWare\\UE_5.3"
 				}
 			},
 			{
@@ -175,13 +296,13 @@
 					"Blocks",
 					"Win64",
 					"Development",
-					"D:\\Documents\\GitHub\\VR\\04\\Blocks.uproject",
+					"D:\\Shared\\UE5\\Assignment01\\VR1108\\04\\Blocks.uproject",
 					"-waitmutex"
 				],
 				"problemMatcher": "$msCompile",
 				"type": "shell",
 				"options": {
-					"cwd": "C:\\Program Files\\Epic Games\\UE_5.3"
+					"cwd": "D:\\SoftWare\\UE_5.3"
 				}
 			},
 			{
@@ -192,13 +313,13 @@
 					"Blocks",
 					"Win64",
 					"Test",
-					"D:\\Documents\\GitHub\\VR\\04\\Blocks.uproject",
+					"D:\\Shared\\UE5\\Assignment01\\VR1108\\04\\Blocks.uproject",
 					"-waitmutex"
 				],
 				"problemMatcher": "$msCompile",
 				"type": "shell",
 				"options": {
-					"cwd": "C:\\Program Files\\Epic Games\\UE_5.3"
+					"cwd": "D:\\SoftWare\\UE_5.3"
 				}
 			},
 			{
@@ -209,7 +330,7 @@
 					"Blocks",
 					"Win64",
 					"Test",
-					"D:\\Documents\\GitHub\\VR\\04\\Blocks.uproject",
+					"D:\\Shared\\UE5\\Assignment01\\VR1108\\04\\Blocks.uproject",
 					"-waitmutex"
 				],
 				"problemMatcher": "$msCompile",
@@ -218,7 +339,7 @@
 				],
 				"type": "shell",
 				"options": {
-					"cwd": "C:\\Program Files\\Epic Games\\UE_5.3"
+					"cwd": "D:\\SoftWare\\UE_5.3"
 				}
 			},
 			{
@@ -229,13 +350,13 @@
 					"Blocks",
 					"Win64",
 					"Test",
-					"D:\\Documents\\GitHub\\VR\\04\\Blocks.uproject",
+					"D:\\Shared\\UE5\\Assignment01\\VR1108\\04\\Blocks.uproject",
 					"-waitmutex"
 				],
 				"problemMatcher": "$msCompile",
 				"type": "shell",
 				"options": {
-					"cwd": "C:\\Program Files\\Epic Games\\UE_5.3"
+					"cwd": "D:\\SoftWare\\UE_5.3"
 				}
 			},
 			{
@@ -246,13 +367,13 @@
 					"Blocks",
 					"Win64",
 					"Shipping",
-					"D:\\Documents\\GitHub\\VR\\04\\Blocks.uproject",
+					"D:\\Shared\\UE5\\Assignment01\\VR1108\\04\\Blocks.uproject",
 					"-waitmutex"
 				],
 				"problemMatcher": "$msCompile",
 				"type": "shell",
 				"options": {
-					"cwd": "C:\\Program Files\\Epic Games\\UE_5.3"
+					"cwd": "D:\\SoftWare\\UE_5.3"
 				}
 			},
 			{
@@ -263,7 +384,7 @@
 					"Blocks",
 					"Win64",
 					"Shipping",
-					"D:\\Documents\\GitHub\\VR\\04\\Blocks.uproject",
+					"D:\\Shared\\UE5\\Assignment01\\VR1108\\04\\Blocks.uproject",
 					"-waitmutex"
 				],
 				"problemMatcher": "$msCompile",
@@ -272,7 +393,7 @@
 				],
 				"type": "shell",
 				"options": {
-					"cwd": "C:\\Program Files\\Epic Games\\UE_5.3"
+					"cwd": "D:\\SoftWare\\UE_5.3"
 				}
 			},
 			{
@@ -283,13 +404,13 @@
 					"Blocks",
 					"Win64",
 					"Shipping",
-					"D:\\Documents\\GitHub\\VR\\04\\Blocks.uproject",
+					"D:\\Shared\\UE5\\Assignment01\\VR1108\\04\\Blocks.uproject",
 					"-waitmutex"
 				],
 				"problemMatcher": "$msCompile",
 				"type": "shell",
 				"options": {
-					"cwd": "C:\\Program Files\\Epic Games\\UE_5.3"
+					"cwd": "D:\\SoftWare\\UE_5.3"
 				}
 			},
 			{
@@ -300,13 +421,13 @@
 					"BlocksEditor",
 					"Win64",
 					"Debug",
-					"D:\\Documents\\GitHub\\VR\\04\\Blocks.uproject",
+					"D:\\Shared\\UE5\\Assignment01\\VR1108\\04\\Blocks.uproject",
 					"-waitmutex"
 				],
 				"problemMatcher": "$msCompile",
 				"type": "shell",
 				"options": {
-					"cwd": "C:\\Program Files\\Epic Games\\UE_5.3"
+					"cwd": "D:\\SoftWare\\UE_5.3"
 				}
 			},
 			{
@@ -317,7 +438,7 @@
 					"BlocksEditor",
 					"Win64",
 					"Debug",
-					"D:\\Documents\\GitHub\\VR\\04\\Blocks.uproject",
+					"D:\\Shared\\UE5\\Assignment01\\VR1108\\04\\Blocks.uproject",
 					"-waitmutex"
 				],
 				"problemMatcher": "$msCompile",
@@ -326,7 +447,7 @@
 				],
 				"type": "shell",
 				"options": {
-					"cwd": "C:\\Program Files\\Epic Games\\UE_5.3"
+					"cwd": "D:\\SoftWare\\UE_5.3"
 				}
 			},
 			{
@@ -337,13 +458,13 @@
 					"BlocksEditor",
 					"Win64",
 					"Debug",
-					"D:\\Documents\\GitHub\\VR\\04\\Blocks.uproject",
+					"D:\\Shared\\UE5\\Assignment01\\VR1108\\04\\Blocks.uproject",
 					"-waitmutex"
 				],
 				"problemMatcher": "$msCompile",
 				"type": "shell",
 				"options": {
-					"cwd": "C:\\Program Files\\Epic Games\\UE_5.3"
+					"cwd": "D:\\SoftWare\\UE_5.3"
 				}
 			},
 			{
@@ -354,13 +475,13 @@
 					"BlocksEditor",
 					"Win64",
 					"DebugGame",
-					"D:\\Documents\\GitHub\\VR\\04\\Blocks.uproject",
+					"D:\\Shared\\UE5\\Assignment01\\VR1108\\04\\Blocks.uproject",
 					"-waitmutex"
 				],
 				"problemMatcher": "$msCompile",
 				"type": "shell",
 				"options": {
-					"cwd": "C:\\Program Files\\Epic Games\\UE_5.3"
+					"cwd": "D:\\SoftWare\\UE_5.3"
 				}
 			},
 			{
@@ -371,7 +492,7 @@
 					"BlocksEditor",
 					"Win64",
 					"DebugGame",
-					"D:\\Documents\\GitHub\\VR\\04\\Blocks.uproject",
+					"D:\\Shared\\UE5\\Assignment01\\VR1108\\04\\Blocks.uproject",
 					"-waitmutex"
 				],
 				"problemMatcher": "$msCompile",
@@ -380,7 +501,7 @@
 				],
 				"type": "shell",
 				"options": {
-					"cwd": "C:\\Program Files\\Epic Games\\UE_5.3"
+					"cwd": "D:\\SoftWare\\UE_5.3"
 				}
 			},
 			{
@@ -391,13 +512,13 @@
 					"BlocksEditor",
 					"Win64",
 					"DebugGame",
-					"D:\\Documents\\GitHub\\VR\\04\\Blocks.uproject",
+					"D:\\Shared\\UE5\\Assignment01\\VR1108\\04\\Blocks.uproject",
 					"-waitmutex"
 				],
 				"problemMatcher": "$msCompile",
 				"type": "shell",
 				"options": {
-					"cwd": "C:\\Program Files\\Epic Games\\UE_5.3"
+					"cwd": "D:\\SoftWare\\UE_5.3"
 				}
 			},
 			{
@@ -408,13 +529,13 @@
 					"BlocksEditor",
 					"Win64",
 					"Development",
-					"D:\\Documents\\GitHub\\VR\\04\\Blocks.uproject",
+					"D:\\Shared\\UE5\\Assignment01\\VR1108\\04\\Blocks.uproject",
 					"-waitmutex"
 				],
 				"problemMatcher": "$msCompile",
 				"type": "shell",
 				"options": {
-					"cwd": "C:\\Program Files\\Epic Games\\UE_5.3"
+					"cwd": "D:\\SoftWare\\UE_5.3"
 				}
 			},
 			{
@@ -425,7 +546,7 @@
 					"BlocksEditor",
 					"Win64",
 					"Development",
-					"D:\\Documents\\GitHub\\VR\\04\\Blocks.uproject",
+					"D:\\Shared\\UE5\\Assignment01\\VR1108\\04\\Blocks.uproject",
 					"-waitmutex"
 				],
 				"problemMatcher": "$msCompile",
@@ -434,7 +555,7 @@
 				],
 				"type": "shell",
 				"options": {
-					"cwd": "C:\\Program Files\\Epic Games\\UE_5.3"
+					"cwd": "D:\\SoftWare\\UE_5.3"
 				}
 			},
 			{
@@ -445,13 +566,13 @@
 					"BlocksEditor",
 					"Win64",
 					"Development",
-					"D:\\Documents\\GitHub\\VR\\04\\Blocks.uproject",
+					"D:\\Shared\\UE5\\Assignment01\\VR1108\\04\\Blocks.uproject",
 					"-waitmutex"
 				],
 				"problemMatcher": "$msCompile",
 				"type": "shell",
 				"options": {
-					"cwd": "C:\\Program Files\\Epic Games\\UE_5.3"
+					"cwd": "D:\\SoftWare\\UE_5.3"
 				}
 			}
 		]
@@ -462,132 +583,132 @@
 			{
 				"name": "Launch Blocks (Debug)",
 				"request": "launch",
-				"program": "D:\\Documents\\GitHub\\VR\\04\\Binaries\\Win64\\UnrealGame-Win64-Debug.exe",
+				"program": "D:\\Shared\\UE5\\Assignment01\\VR1108\\04\\Binaries\\Win64\\UnrealGame-Win64-Debug.exe",
 				"preLaunchTask": "Blocks Win64 Debug Build",
 				"args": [
 				],
-				"cwd": "C:\\Program Files\\Epic Games\\UE_5.3",
+				"cwd": "D:\\SoftWare\\UE_5.3",
 				"stopAtEntry": false,
 				"console": "externalTerminal",
 				"type": "cppvsdbg",
-				"visualizerFile": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Extras\\VisualStudioDebugging\\Unreal.natvis",
+				"visualizerFile": "D:\\SoftWare\\UE_5.3\\Engine\\Extras\\VisualStudioDebugging\\Unreal.natvis",
 				"sourceFileMap": {
-					"D:\\build\\++UE5\\Sync": "C:\\Program Files\\Epic Games\\UE_5.3"
+					"D:\\build\\++UE5\\Sync": "D:\\SoftWare\\UE_5.3"
 				}
 			},
 			{
 				"name": "Launch Blocks (DebugGame)",
 				"request": "launch",
-				"program": "D:\\Documents\\GitHub\\VR\\04\\Binaries\\Win64\\UnrealGame-Win64-DebugGame.exe",
+				"program": "D:\\Shared\\UE5\\Assignment01\\VR1108\\04\\Binaries\\Win64\\UnrealGame-Win64-DebugGame.exe",
 				"preLaunchTask": "Blocks Win64 DebugGame Build",
 				"args": [
 				],
-				"cwd": "C:\\Program Files\\Epic Games\\UE_5.3",
+				"cwd": "D:\\SoftWare\\UE_5.3",
 				"stopAtEntry": false,
 				"console": "externalTerminal",
 				"type": "cppvsdbg",
-				"visualizerFile": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Extras\\VisualStudioDebugging\\Unreal.natvis",
+				"visualizerFile": "D:\\SoftWare\\UE_5.3\\Engine\\Extras\\VisualStudioDebugging\\Unreal.natvis",
 				"sourceFileMap": {
-					"D:\\build\\++UE5\\Sync": "C:\\Program Files\\Epic Games\\UE_5.3"
+					"D:\\build\\++UE5\\Sync": "D:\\SoftWare\\UE_5.3"
 				}
 			},
 			{
 				"name": "Launch Blocks (Development)",
 				"request": "launch",
-				"program": "D:\\Documents\\GitHub\\VR\\04\\Binaries\\Win64\\UnrealGame.exe",
+				"program": "D:\\Shared\\UE5\\Assignment01\\VR1108\\04\\Binaries\\Win64\\UnrealGame.exe",
 				"preLaunchTask": "Blocks Win64 Development Build",
 				"args": [
 				],
-				"cwd": "C:\\Program Files\\Epic Games\\UE_5.3",
+				"cwd": "D:\\SoftWare\\UE_5.3",
 				"stopAtEntry": false,
 				"console": "externalTerminal",
 				"type": "cppvsdbg",
-				"visualizerFile": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Extras\\VisualStudioDebugging\\Unreal.natvis",
+				"visualizerFile": "D:\\SoftWare\\UE_5.3\\Engine\\Extras\\VisualStudioDebugging\\Unreal.natvis",
 				"sourceFileMap": {
-					"D:\\build\\++UE5\\Sync": "C:\\Program Files\\Epic Games\\UE_5.3"
+					"D:\\build\\++UE5\\Sync": "D:\\SoftWare\\UE_5.3"
 				}
 			},
 			{
 				"name": "Launch Blocks (Test)",
 				"request": "launch",
-				"program": "D:\\Documents\\GitHub\\VR\\04\\Binaries\\Win64\\UnrealGame-Win64-Test.exe",
+				"program": "D:\\Shared\\UE5\\Assignment01\\VR1108\\04\\Binaries\\Win64\\UnrealGame-Win64-Test.exe",
 				"preLaunchTask": "Blocks Win64 Test Build",
 				"args": [
 				],
-				"cwd": "C:\\Program Files\\Epic Games\\UE_5.3",
+				"cwd": "D:\\SoftWare\\UE_5.3",
 				"stopAtEntry": false,
 				"console": "externalTerminal",
 				"type": "cppvsdbg",
-				"visualizerFile": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Extras\\VisualStudioDebugging\\Unreal.natvis",
+				"visualizerFile": "D:\\SoftWare\\UE_5.3\\Engine\\Extras\\VisualStudioDebugging\\Unreal.natvis",
 				"sourceFileMap": {
-					"D:\\build\\++UE5\\Sync": "C:\\Program Files\\Epic Games\\UE_5.3"
+					"D:\\build\\++UE5\\Sync": "D:\\SoftWare\\UE_5.3"
 				}
 			},
 			{
 				"name": "Launch Blocks (Shipping)",
 				"request": "launch",
-				"program": "D:\\Documents\\GitHub\\VR\\04\\Binaries\\Win64\\UnrealGame-Win64-Shipping.exe",
+				"program": "D:\\Shared\\UE5\\Assignment01\\VR1108\\04\\Binaries\\Win64\\UnrealGame-Win64-Shipping.exe",
 				"preLaunchTask": "Blocks Win64 Shipping Build",
 				"args": [
 				],
-				"cwd": "C:\\Program Files\\Epic Games\\UE_5.3",
+				"cwd": "D:\\SoftWare\\UE_5.3",
 				"stopAtEntry": false,
 				"console": "externalTerminal",
 				"type": "cppvsdbg",
-				"visualizerFile": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Extras\\VisualStudioDebugging\\Unreal.natvis",
+				"visualizerFile": "D:\\SoftWare\\UE_5.3\\Engine\\Extras\\VisualStudioDebugging\\Unreal.natvis",
 				"sourceFileMap": {
-					"D:\\build\\++UE5\\Sync": "C:\\Program Files\\Epic Games\\UE_5.3"
+					"D:\\build\\++UE5\\Sync": "D:\\SoftWare\\UE_5.3"
 				}
 			},
 			{
 				"name": "Launch BlocksEditor (Debug)",
 				"request": "launch",
-				"program": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Binaries\\Win64\\UnrealEditor-Win64-Debug.exe",
+				"program": "D:\\SoftWare\\UE_5.3\\Engine\\Binaries\\Win64\\UnrealEditor-Win64-Debug.exe",
 				"preLaunchTask": "BlocksEditor Win64 Debug Build",
 				"args": [
-					"D:\\Documents\\GitHub\\VR\\04\\Blocks.uproject"
+					"D:\\Shared\\UE5\\Assignment01\\VR1108\\04\\Blocks.uproject"
 				],
-				"cwd": "C:\\Program Files\\Epic Games\\UE_5.3",
+				"cwd": "D:\\SoftWare\\UE_5.3",
 				"stopAtEntry": false,
 				"console": "externalTerminal",
 				"type": "cppvsdbg",
-				"visualizerFile": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Extras\\VisualStudioDebugging\\Unreal.natvis",
+				"visualizerFile": "D:\\SoftWare\\UE_5.3\\Engine\\Extras\\VisualStudioDebugging\\Unreal.natvis",
 				"sourceFileMap": {
-					"D:\\build\\++UE5\\Sync": "C:\\Program Files\\Epic Games\\UE_5.3"
+					"D:\\build\\++UE5\\Sync": "D:\\SoftWare\\UE_5.3"
 				}
 			},
 			{
 				"name": "Launch BlocksEditor (DebugGame)",
 				"request": "launch",
-				"program": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Binaries\\Win64\\UnrealEditor-Win64-DebugGame.exe",
+				"program": "D:\\SoftWare\\UE_5.3\\Engine\\Binaries\\Win64\\UnrealEditor-Win64-DebugGame.exe",
 				"preLaunchTask": "BlocksEditor Win64 DebugGame Build",
 				"args": [
-					"D:\\Documents\\GitHub\\VR\\04\\Blocks.uproject"
+					"D:\\Shared\\UE5\\Assignment01\\VR1108\\04\\Blocks.uproject"
 				],
-				"cwd": "C:\\Program Files\\Epic Games\\UE_5.3",
+				"cwd": "D:\\SoftWare\\UE_5.3",
 				"stopAtEntry": false,
 				"console": "externalTerminal",
 				"type": "cppvsdbg",
-				"visualizerFile": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Extras\\VisualStudioDebugging\\Unreal.natvis",
+				"visualizerFile": "D:\\SoftWare\\UE_5.3\\Engine\\Extras\\VisualStudioDebugging\\Unreal.natvis",
 				"sourceFileMap": {
-					"D:\\build\\++UE5\\Sync": "C:\\Program Files\\Epic Games\\UE_5.3"
+					"D:\\build\\++UE5\\Sync": "D:\\SoftWare\\UE_5.3"
 				}
 			},
 			{
 				"name": "Launch BlocksEditor (Development)",
 				"request": "launch",
-				"program": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Binaries\\Win64\\UnrealEditor.exe",
+				"program": "D:\\SoftWare\\UE_5.3\\Engine\\Binaries\\Win64\\UnrealEditor.exe",
 				"preLaunchTask": "BlocksEditor Win64 Development Build",
 				"args": [
-					"D:\\Documents\\GitHub\\VR\\04\\Blocks.uproject"
+					"D:\\Shared\\UE5\\Assignment01\\VR1108\\04\\Blocks.uproject"
 				],
-				"cwd": "C:\\Program Files\\Epic Games\\UE_5.3",
+				"cwd": "D:\\SoftWare\\UE_5.3",
 				"stopAtEntry": false,
 				"console": "externalTerminal",
 				"type": "cppvsdbg",
-				"visualizerFile": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Extras\\VisualStudioDebugging\\Unreal.natvis",
+				"visualizerFile": "D:\\SoftWare\\UE_5.3\\Engine\\Extras\\VisualStudioDebugging\\Unreal.natvis",
 				"sourceFileMap": {
-					"D:\\build\\++UE5\\Sync": "C:\\Program Files\\Epic Games\\UE_5.3"
+					"D:\\build\\++UE5\\Sync": "D:\\SoftWare\\UE_5.3"
 				}
 			},
 			{
@@ -595,18 +716,18 @@
 				"type": "coreclr",
 				"request": "launch",
 				"preLaunchTask": "UnrealBuildTool Win64 Development Build",
-				"program": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Build\\BatchFiles\\RunUBT.bat",
+				"program": "D:\\SoftWare\\UE_5.3\\Engine\\Build\\BatchFiles\\RunUBT.bat",
 				"args": [
 					"-projectfiles",
 					"-vscode",
-					"-project=D:\\Documents\\GitHub\\VR\\04\\Blocks.uproject",
+					"-project=D:\\Shared\\UE5\\Assignment01\\VR1108\\04\\Blocks.uproject",
 					"-game",
 					"-engine",
 					"-dotnet"
 				],
 				"console": "externalTerminal",
 				"stopAtEntry": false,
-				"cwd": "C:\\Program Files\\Epic Games\\UE_5.3"
+				"cwd": "D:\\SoftWare\\UE_5.3"
 			}
 		]
 	}
