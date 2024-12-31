@@ -30,6 +30,7 @@ Saved/
 *.ipch
 *.pch
 *.log
+*.code-workspace
 *.vscode/
 *.vsconfig
 *.sln.DotSettings.user
