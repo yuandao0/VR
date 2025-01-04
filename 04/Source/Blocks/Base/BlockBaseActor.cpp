@@ -1,8 +1,7 @@
-// ï¿½CGVR 2021. Author: Andre Muehlenbrock 
+// ©CGVR 2021. Author: Andre Muehlenbrock 
 
 #include "BlockBaseActor.h"
 #include "Kismet/KismetSystemLibrary.h"
-
 
 ABlockBaseActor::ABlockBaseActor()
 {

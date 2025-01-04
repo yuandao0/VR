@@ -18,7 +18,6 @@
 			"Name": "HPMotionController",
 			"Enabled": true,
 			"SupportedTargetPlatforms": [
-				"Win32",
 				"Win64"
 			]
 		},
