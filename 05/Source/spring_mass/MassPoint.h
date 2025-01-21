@@ -13,7 +13,7 @@ protected:
 	// index of the vertex this mass point is attached to
 	uint32 m_vertex_id;
 	// current position in local coordinate system
-	FVector m_currPos;
+	FVector m_currPos, m_prevPos;
 	// current mass-spring system state
 	FVector m_force, m_velocity;
 
