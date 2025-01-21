@@ -43,11 +43,27 @@ MassPoint::updateCurPos(float deltaT)
 		//m_velocity += m_force / m_mass * deltaT;
 		//m_currPos += m_velocity * deltaT;
 		
-		m_prevPos = m_currPos;
+		//01 Calculate the acceleration with gamma
+		FVector Acceleration = m_force / m_mass - 0.1 * m_velocity;
 
-		// Verlet intergration: x(t+1) = 2*x(t) - x(t-1) + a(t) * dt^2
-		m_currPos = 2 * m_currPos - m_prevPos + (m_force/ m_mass) * deltaT * deltaT;
-		m_prevPos = m_currPos;
+		//02 Calculate the new position
+		FVector Temp = m_currPos;
+		m_currPos = 2 * m_currPos - m_prevPos + Acceleration * deltaT * deltaT;
+		m_prevPos = Temp;
+
+		//03 Calculate the new velocity
+		m_velocity = (m_currPos - m_prevPos) / deltaT;
+		
+		/*** Methd 2
+		//01 Calculate the new position
+		m_currPos += m_velocity * deltaT + 0.5 * Last_acceleration * deltaT * deltaT;
+
+		//02 Calculate the new acceleration
+		New_acceleration = m_force / m_mass;
+		
+		//03 Calculate the new velocity
+		m_velocity += 0.5 * (Last_acceleration + New_acceleration) * deltaT;
+		***/
 	}
 	m_force = FVector::ZeroVector;
 }
